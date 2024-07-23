@@ -1,0 +1,12 @@
+setup.py
+phrasetree/__init__.py
+phrasetree/grammar.py
+phrasetree/tree.py
+phrasetree/treeprettyprinter.py
+phrasetree/treetransforms.py
+phrasetree/util.py
+phrasetree.egg-info/PKG-INFO
+phrasetree.egg-info/SOURCES.txt
+phrasetree.egg-info/dependency_links.txt
+phrasetree.egg-info/not-zip-safe
+phrasetree.egg-info/top_level.txt
